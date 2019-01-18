@@ -1,3 +1,5 @@
+package com.mycompany.app;
+
 public class Counter {
 	  private int result = 0;
 
